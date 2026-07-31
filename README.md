@@ -112,7 +112,7 @@ A 4-page interactive report, filterable by **hotel, month, customer type, and co
 | **Customer Analysis** | Market segment, meal preference, distribution channel, repeat-guest rate (3.9%) | Guest base is dominated by Transient (independent) travelers; repeat guests are a small share |
 | **Cancellation Analysis** | Cancellation rate by lead time, deposit type, and market segment, tracked month by month | Cancellation risk climbs sharply with lead time and varies enormously by channel |
 | **Revenue & Room Analysis** | ADR trends over time, revenue by market segment, room-type performance by hotel | Online OTA generates the most revenue but is also the least reliable channel |
-| **Trend Analysis** | Monthly booking volume and rate/cancellation trends across the reporting window | Demand, ADR, and cancellation risk peak together in the same summer months |
+
 
 An **Executive Overview** page also anchors the report with headline KPIs: total bookings, overall cancellation rate, total revenue, average ADR, and average stay length.
 
